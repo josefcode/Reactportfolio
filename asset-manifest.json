@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/josefcode/Reactportfolio.git/static/css/main.098ad4f7.css",
+    "main.js": "/josefcode/Reactportfolio.git/static/js/main.48a0a24a.js",
+    "static/media/03.png": "/josefcode/Reactportfolio.git/static/media/03.f51cbc6b0aadc5113cfb.png",
+    "static/media/02.png": "/josefcode/Reactportfolio.git/static/media/02.4c06a0f37e6f6ea0f1ad.png",
+    "static/media/01.png": "/josefcode/Reactportfolio.git/static/media/01.48437eb4ded0e451cdf8.png",
+    "static/media/Assetff 1@2x.png": "/josefcode/Reactportfolio.git/static/media/Assetff 1@2x.954dd2163433dc5fb30e.png",
+    "static/media/wolf.png": "/josefcode/Reactportfolio.git/static/media/wolf.cafe95b22402eabb72e0.png",
+    "index.html": "/josefcode/Reactportfolio.git/index.html",
+    "main.098ad4f7.css.map": "/josefcode/Reactportfolio.git/static/css/main.098ad4f7.css.map",
+    "main.48a0a24a.js.map": "/josefcode/Reactportfolio.git/static/js/main.48a0a24a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.098ad4f7.css",
+    "static/js/main.48a0a24a.js"
+  ]
+}
